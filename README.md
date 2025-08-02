@@ -3,16 +3,16 @@
 
 MockVault is an innovative platform designed to help technical students excel in their interview preparations. It provides an extensive collection of mock interview questions, company-specific problems, and DSA challenges to enhance problem-solving skills.
 
-## ✨ Features
+## Features
 
-- 📚 **Resource Library:** Access a vast collection of previous interview questions and company-specific problems.
-- 🧑‍💻 **1:1 Session Integration:** Book personalized mentorship sessions with experts using Topmate.
-- 🔎 **Search and Filter:** Easily navigate through categorized interview questions.
-- 🧪 **Mock Interviews:** Practice with real-world interview scenarios.
-- 📈 **Progress Tracking:** Monitor your progress and identify areas for improvement.
+- **Resource Library:** Access a vast collection of previous interview questions and company-specific problems.
+- **1:1 Session Integration:** Book personalized mentorship sessions with experts using Topmate.
+- **Search and Filter:** Easily navigate through categorized interview questions.
+- **Mock Interviews:** Practice with real-world interview scenarios.
+- **Progress Tracking:** Monitor your progress and identify areas for improvement.
 - 
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** Next.js 15, Tailwind CSS
 - **Backend:** Python Flask
 - **Database:** MongoDB
@@ -20,18 +20,19 @@ MockVault is an innovative platform designed to help technical students excel in
 - **Deployment:** Vercel (Frontend), Heroku or AWS (Backend)
 
 
-## 🎯 Purpose
+## Purpose
 MockVault is built with the goal of bridging the gap between theoretical knowledge and practical interview scenarios. Whether you're a fresher or an experienced professional, this platform offers a tailored experience to sharpen your technical skills.
 
 
-**By [AnshAjayMishra](https://AnshAjayMishra.vercel.app) ✨**
+##  Author
 
-## 📧 Contact
-For any queries or support, reach out at [Here](https://anshlinks.vercel.app).
+**ianshjain**  [GitHub Profile](https://github.com/ianshjain)
 
 ---
 
 Elevate your interview game with **MockVault**!
+
+will be back...!
 
 
 
